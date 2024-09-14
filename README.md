@@ -10,7 +10,7 @@
 <a><img src='https://i.imgur.com/P8F82MF.gif'/></a>
 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝑆𝑇𝐼𝐺𝑀𝐴 𝑆𝐴𝑆𝐴𝐾𝐼-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝑆𝐼𝐺𝑀𝐴 𝑆𝐴𝑆𝐴𝐾𝐼-blue.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Deathsgun0001"><img title="Author" src="https://img.shields.io/badge/亗𝑆𝐴𝑆𝐴𝐾𝐼 𝐹𝐴𝑀𝐼𝐿𝑌亗-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/242067274660"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
