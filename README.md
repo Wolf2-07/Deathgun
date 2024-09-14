@@ -29,7 +29,7 @@
 
 ### SESSION ID CODE.
 
-<a href='https://web-qr-64jj.onrender.com/' target="_blank"><img alt='SESSION ID-CODE' src='https://img.shields.io/badge/SESSION ID-CODE-BLUE?style=for-the-badge&logo=git&logoColor=GREEN'/></a>
+<a href='https://akashi-session-1.onrender.com' target="_blank"><img alt='SESSION ID-CODE' src='https://img.shields.io/badge/SESSION ID-CODE-BLUE?style=for-the-badge&logo=git&logoColor=GREEN'/></a>
 <p align="center">
 
 ## Tutorials will be available here
