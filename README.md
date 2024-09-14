@@ -1,4 +1,5 @@
-<a><img src='https://i.imgur.com/JSIcE3I.gif'/></a>
+<p>Merci infiniment à notre entourage qui travaille avec la team sasaki grâce à vous nos projets vois le jour <strong>limule solitarius joker apocalypse kg kerm</strong></p>
+
 ## 𝘿𝙀𝘼𝙏𝙃𝙎𝙂𝙐𝙉
 | [![Deathsgun0001](https://i.imgur.com/JSIcE3I.jpeg)](https://github.com/Deathsgun0001)|
 |----|
