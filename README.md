@@ -83,6 +83,7 @@
 
 * [`STIGMA SASAKI`](https://wa.me/224610303003?text=Hi+Bro+Rayan+Big+Fan😍)
 * [`AKASHI SASAKI`](https://wa.me/242067274660?text=Hi+Bro+Giffareno+Big+Fan😍)
+* [`ARTHUR SASAKI`](https://wa.me/22898555306?text=Hi+Bro+Giffareno+Big+Fan😍)
  </details>
 
   **Do not forget to give a star⭐️ please**
