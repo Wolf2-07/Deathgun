@@ -1,6 +1,6 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/JSIcE3I.gif'/></a>
 ## 𝘿𝙀𝘼𝙏𝙃𝙎𝙂𝙐𝙉
-| [![Kgtech-cmr](https://i.imgur.com/P8F82MF.jpeg)](https://github.com/Deathsgun0001)|
+| [![Deathsgun0001](https://i.imgur.com/JSIcE3I.jpeg)](https://github.com/Deathsgun0001)|
 |----|
    ✦𝗠𝗔𝗗𝗘 𝗕𝗬 𝑆𝑇𝐼𝐺𝑀𝐴 𝑆𝐴𝑆𝐴𝐾𝐼✦
 <a><img src='https://i.imgur.com/P8F82MF.gif'/></a>
